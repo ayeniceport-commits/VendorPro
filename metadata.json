@@ -1,0 +1,6 @@
+{
+  "name": "Tedarikçi Yönetimi ve Performans Puanlama - R1",
+  "description": "Web tabanlı Tedarikçi Yönetimi, Çok Kriterli Performans Puanlama ve Excel Toplu İçe Aktarım Sistemi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
